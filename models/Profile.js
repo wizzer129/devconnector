@@ -42,7 +42,7 @@ const ProfileSchema = new Schema({
         type: String
     },
 
-    experince: [
+    experience: [
         {
             title: {
                 type: String,
